@@ -1,0 +1,28 @@
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.carousel-indicators .active,
+.option-box .gear-check{
+    background-color: #009AFF;
+}
+
+.navbar-inverse .navbar-brand span,
+.about h1 span,
+.testimonials span{
+    color: #009AFF;
+}
+
+
+/* drop down menu */
+.dropdown-menu{
+    border-top: 3px solid #009AFF;
+}
+
+
+.testimonials .carousel-indicators li.active,
+.option-box .color-option{
+    border: 3px solid #009AFF;
+}
+
